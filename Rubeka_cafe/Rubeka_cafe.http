@@ -1,0 +1,6 @@
+@Rubeka_cafe_HostAddress = http://localhost:5086
+
+GET {{Rubeka_cafe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
